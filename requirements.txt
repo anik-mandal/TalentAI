@@ -1,0 +1,12 @@
+streamlit
+supabase
+PyPDF2
+requests
+python-dotenv
+chromadb
+sentence-transformers
+groq
+plotly
+pandas
+google-genai
+python-telegram-bot
